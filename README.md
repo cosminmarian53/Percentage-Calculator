@@ -21,8 +21,3 @@ This lightweight web application calculates the percentage of one number relativ
 ## Contributing
 
 Contributions are welcome! If you'd like to enhance the Percentage Calculator, please fork this repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-Contributions are welcome! If you'd like to enhance the Percentage Calculator, please fork this repository and submit a pull request.
